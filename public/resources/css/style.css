@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Outfit';
+    /* D:\Laragon\laragon\www\eserciziCiro\Carillo\Carillo_Asset\asset\font\Outfit\static\Outfit-Regular.ttf*/
+    src: url("../Carillo_Asset/asset/font/Outfit/static/Outfit-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url("../Carillo_Asset/asset/font/Outfit/static/Outfit-Light.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'DancingScript';
+    src: url("../Carillo_Asset/asset/font/Dancing_Script/static/DancingScript-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'DancingScript';
+    src: url("../Carillo_Asset/asset/font/Dancing_Script/static/DancingScript-Bold.ttf");
+    font-weight: 700;
+}
